@@ -2,7 +2,7 @@
 create ec2 on public subnet and run apache server using terraform
 
 steps:
-1-Create VPC
+1-Create VPC \n
 2-Create Public-subnet
 3-Create Security group
 4-Create routeTable
